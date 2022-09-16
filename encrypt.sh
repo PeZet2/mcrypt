@@ -1,3 +1,3 @@
 #!/bin/bash
 
-~/scripts/mcrypt -e JAKIS_TEKST
+./mcrypt -e <text_to_encode>
