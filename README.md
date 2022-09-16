@@ -1,2 +1,2 @@
 # mcrypt
-Szyfrowanie i deszyfrowanie tekstu
+Encoding and decoding text with given salt string.

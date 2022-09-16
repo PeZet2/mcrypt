@@ -1,3 +1,3 @@
 #!/bin/bash
 
-~/scripts/mcrypt -d JAKIS_ZASZYFROWANY_TEKST 
+./mcrypt -d <text_to_decode>
